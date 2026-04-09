@@ -32,3 +32,4 @@ npm test
 | GET | /health | Health check |
 | GET | /api/items | List items |
 | POST | /api/items | Create item |
+# pipeline test
