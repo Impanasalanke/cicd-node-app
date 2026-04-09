@@ -33,3 +33,4 @@ npm test
 | GET | /api/items | List items |
 | POST | /api/items | Create item |
 # pipeline test
+trigger
